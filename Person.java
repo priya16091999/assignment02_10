@@ -26,7 +26,7 @@ public class Person {
 
 	public static void main(String[] args) {
 
-		Person person = new Person("Shweta", 24);
+		Person person = new Person("Priya", 26);
 
 		System.out.println("Name: " + person.getName());
 		System.out.println("Age: " + person.getAge());
